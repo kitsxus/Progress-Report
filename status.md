@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Jade Tipton-Rivero
 
 #### Your section leader's name
 
-TODO
+Elmira Talebianaraki
 
 #### Project title
 
-TODO
+7 Days with Olivia
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I've completed the title screen and most drawn assets
 
 #### What have you not done for your project yet?
 
-TODO
+The playable dates and audio
 
 #### What problems, if any, have you encountered?
 
-TODO
+No issues
